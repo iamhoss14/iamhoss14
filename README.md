@@ -34,15 +34,3 @@ I'm a Python Developer specializing in Data Analysis and Machine Learning. I enj
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
-### 📊 GitHub Status
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhoss14&show_icons=true&theme=tokyonight&hide_border=true" alt="iamhoss14's GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhoss14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhoss14&theme=tokyonight&hide_border=true" width="100%" />
-</div>
