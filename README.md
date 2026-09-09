@@ -1,4 +1,16 @@
+---
 <div align="center">
+  <img src="./anakin-banner.svg" alt="Anakin Skywalker Banner" width="100%" />
+</div>
+
+<div align="center">
+  <h3>⚡ "This is where the fun begins." ⚡</h3>
+  
+  <!-- Anakin / Star Wars Animation -->
+  <img src="https://media.giphy.com/media/lq4zZge5wmOFIesIml/giphy.gif" width="600" alt="Anakin Skywalker Animation" />
+  
+  <p><em>"You underestimate my power!"</em></p>
+</div><div align="center">
   <!-- Animated Data Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Amirhossein!+%F0%9F%91%8B;Python+Developer+%7C+Data+Analyst;Building+Machine+Learning+Models;Turning+Data+into+Decisions" alt="Typing SVG" />
 </div>
