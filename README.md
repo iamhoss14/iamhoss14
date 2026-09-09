@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Data Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+[Amirhossein]!+%F0%9F%91%8B;Python+Developer+%7C+Data+Analyst;Building+Machine+Learning+Models;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Amirhossein!+%F0%9F%91%8B;Python+Developer+%7C+Data+Analyst;Building+Machine+Learning+Models;Turning+Data+into+Decisions" alt="Typing SVG" />
 </div>
 
 ---
@@ -8,10 +8,10 @@
 ### 👨‍💻 About Me
 I'm a Python Developer specializing in Data Analysis and Machine Learning. I enjoy extracting insights from messy data, building predictive models, and managing robust databases.
 
-- 🔭 I’m currently working on **[ML and Data project and some math project]**
-- 🌱 I’m currently deepening my knowledge of **[Deep Learning, MLOps, Advanced SQL]**
+- 🔭 I’m currently working on **ML and Data project and some math project**
+- 🌱 I’m currently deepening my knowledge of **Deep Learning, MLOps, Advanced SQL**
 - 💬 Ask me about: **Python, Pandas, Data Wrangling, and PostgreSQL**
-- 📫 How to reach me: **[iamhoss14@gmail.com]**
+- 📫 How to reach me: **iamhoss14@gmail.com**
 
 ### 🛠️ My Tech Stack
 
