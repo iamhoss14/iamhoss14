@@ -6,10 +6,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Insert your current project]**
-- 🌱 I’m currently learning **[Insert framework/language, e.g., Python, React]**
-- 💬 Ask me about **[Insert your skills, e.g., Data Science, Web Dev]**
-- 📫 How to reach me: **[Insert your email]**
+- 🔭 I’m currently working on **[Python and DA project]**
+- 🌱 I’m currently learning **[Python,pd,np...]**
+- 💬 Ask me about **[Python,ML,DA]**
+- 📫 How to reach me: **[iamhoss14@gmail.com]**
 
 ### 🛠️ Tech Stack
 <!-- You can find more icons at simpleicons.org -->
